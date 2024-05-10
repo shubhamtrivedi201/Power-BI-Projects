@@ -1,2 +1,3 @@
-# Power-BI-Projects
-here i share some of my Power BI Dashboard
+Title: Interactive Dashboard & KPI Development Project for LyghtLiving
+
+Description: This Power BI project showcases my contributions during my internship with LyghtLiving, a prominent client based in Canada. In this project, I spearheaded the data cleaning process, ensuring data integrity and reliability. Additionally, I meticulously developed Key Performance Indicators (KPIs) tailored to meet the specific needs and objectives of LyghtLiving. The culmination of this endeavor is the creation of an interactive dashboard, offering intuitive visualization and comprehensive insights derived from the meticulously cleaned data and well-defined KPIs. This Power BI file represents a fusion of data science expertise and client-centric focus, empowering LyghtLiving to make informed decisions and drive strategic initiatives effectively.
